@@ -1,4 +1,4 @@
-#H1 👋 Hi, I’m @ayush ahirwar
+<H1>> 👋 Hi, I’m @ayush ahirwar</H1
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning MERN.
 - 📫 How to reach me messsGE ME ON  github or via emailalso you can talk to me.
