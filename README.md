@@ -8,7 +8,7 @@
 <h3>
   contact me 
 </h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-x-ahirwar)
+[![LinkedIn](https://th.bing.com/th/id/OIP.P_z8uTsVJ8tmPn2prJwOpQHaHa?rs=1&pid=ImgDetMain)](https://www.linkedin.com/in/ayush-x-ahirwar)
 
 
 <!---
