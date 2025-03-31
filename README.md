@@ -1,7 +1,8 @@
+-
+-
 - 👋 Hi, I’m @ayush ahirwar
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning c++,html,css,jsnode,python and java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN.
 - 📫 How to reach me messsGE ME ON  github or via emailalso you can talk to me.
 
 <!---
