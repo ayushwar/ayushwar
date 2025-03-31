@@ -36,11 +36,11 @@
 <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" height="40">
 </a>
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/ayushwar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40">
 </a>
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40" height="40">
+    <img src="https://th.bing.com/th/id/OIP.q0DQLwqov4XeEv1FvaWwwAHaHa?rs=1&pid=ImgDetMain" width="40" height="40">
 </a>
 <a href="https://github.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40">
